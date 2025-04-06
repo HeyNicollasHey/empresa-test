@@ -1,7 +1,5 @@
 # empresa-test
 
-Este projeto é um sistema de cadastro de funcionários desenvolvido em HTML, CSS e JavaScript. O sistema realiza validações de campos do formulário e executa testes automatizados utilizando um framework de testes próprio.
-
 As principais funcionalidades do sistema incluem:
 
 Validação de nome completo, RG, CPF, data de nascimento, e-mail, telefone, cargo, salário, data de admissão, endereço, CEP e número de dependentes.
@@ -21,5 +19,3 @@ Para rodar os testes no navegador, basta abrir o arquivo index.html no navegador
 Para rodar os testes no terminal usando Node.js, execute o comando:
 
 node testCLI.js
-
-O projeto é modular, e os testes podem ser expandidos conforme novas funcionalidades forem adicionadas.
